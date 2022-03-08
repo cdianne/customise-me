@@ -1,17 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@200;400;600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@200;400;600&display=swap");
 /*font weights: 200, 400, 600 */
 
+*/ :root {
+  --bg: #e5e5e5;
+  --font-color: #3c405b;
+  --brown: #a6785e;
+  --mint-blue: #728a8e;
+  --navy-blue: #3c405b;
+  --broken-white: #f6f8f7;
 
-*/
-:root{
-    --bg:#E5E5E5;
-    --font-color:#3C405B;
-    --brown:#A6785E;
-    --mint-blue:#728A8E;
-    --navy-blue:#3C405B;
-    --broken-white:#F6F8F7;
-
-
-    --para-font:'Lexend Deca', sans-serif;
-
+  --para-font: "Lexend Deca", sans-serif;
 }
+
+/* Cusotmise me page */
